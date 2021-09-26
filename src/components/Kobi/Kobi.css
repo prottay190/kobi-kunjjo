@@ -1,0 +1,9 @@
+.kobi-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    background-color: #17202A;
+}
+.kobi-info{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
